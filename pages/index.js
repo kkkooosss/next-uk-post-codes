@@ -15,5 +15,4 @@ export async function getServerSideProps() {
     // Pass the data to the page via props
     return { props: { data } }
     return { props: { data } }
-    return { props: { data } }
 }
